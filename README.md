@@ -1,3 +1,3 @@
 # 323-Compilers-Project
 
-#Team Members: Farzan Ghaderpanah, Eric Van Der Roest, Jordan Wermuth, Arasto
+#Team Members: Farzan Ghaderpanah, Eric Van Der Roest, Jordan Wermuth, Arasto Abedi
